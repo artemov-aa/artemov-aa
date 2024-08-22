@@ -1,4 +1,21 @@
-## Hi there 👋
+## Привет! 👋
+
+### :man_technologist: Обо мне:
+- 🔭 Я работаю над ...
+- 🌱 Изучаю ...
+- :zap: В свободное время ...
+- 📫 Как со мной связаться: ...
+
+### :fire: Моя статистика:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artemov-aa&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artemov-aa&show_icons=true&theme=radical)
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+![](https://komarev.com/ghpvc/?username=artemov-aa&color=green)
 
 <!--
 **artemov-aa/artemov-aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
